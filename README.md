@@ -14,6 +14,9 @@
 🛠️ Constantly crafting security scripts and learning exploit techniques  
 📜 Advocating for cyber hygiene and awareness through workshops  
 
+🎓 **Education:**  
+- Studied **Cybersecurity** at the **[Air Force Institute of Technology, Kaduna](https://www.afit.edu.ng)**
+
 🔬 **Current Focus:**  
 - **Windows & Linux Privilege Escalation** 🔗 — Identifying and exploiting misconfigurations to escalate user permissions.  
 - **Web Application Penetration Testing** 🕵️‍♂️ — Testing for vulnerabilities such as SQL Injection, XSS, and authentication flaws.  
@@ -31,12 +34,12 @@
 ### 🔎 **Cybersecurity Tools**
 - Kali Linux | Nmap | Wireshark | Scapy | Metasploit | Burp Suite | Hydra | John the Ripper  
 
-### 🏗️ **Other Technologies**
+<!--### 🏗️ **Other Technologies**
 - Git | MySQL | Docker | VirtualBox  
 
 ### 🚀 **Platforms & Training**
 - TryHackMe | Hack The Box | CyberSecLabs | PenTesters Academy
-
+-->
 ---
 
 ## 🔥 Featured Projects  
