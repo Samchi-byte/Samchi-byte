@@ -44,7 +44,7 @@
 
 ## 🔥 Featured Projects  
 
-### [📡 Wi-Fi Deauthentication DoS Simulation](https://github.com/your-username/deauth-dos-simulation)
+### [📡 Wi-Fi Deauthentication DoS Simulation](https://github.com/Samchi-byte/Deauth.git)
 🔹 Simulates and mitigates deauthentication-based denial-of-service attacks in wireless networks  
 
 <!--### [🔍 Custom Python Port Scanner](https://github.com/your-username/python-port-scanner)
